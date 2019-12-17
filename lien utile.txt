@@ -1,0 +1,14 @@
+API YOUTUBE= https://developers.google.com/youtube/player_parameters?hl=fr
+W3SCHOOLS = LE SITE POUR TOUT APPRENDRE
+
+ctrl + : = Créer un commentaire
+div.[nomduclasse]*[valeur]+div.[nomdusecondclasse]*[valeur] = Créer un nb défini de div 
+							     "+" permet d'ajouter un div supp
+
+
+margin = espace ton bloc et ceux autour (les autres)
+padding = ton bloc et ce qui contient
+
+
+. cé pour les classes
+# cé pour les ID

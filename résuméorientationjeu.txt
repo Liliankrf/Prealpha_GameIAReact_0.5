@@ -1,0 +1,28 @@
+ (détecté)
+  
+ 
+ 
+ 
+Bonjour !
+
+Actuellement en projet école, nous devons créer des scripts et des intelligences artificiels capables de répondre à une problématique. Nous pouvons seulement utiliser : HTML5 / CSS3 / REACT JS.
+Cette problématique est un jeu de carte pour 4 personnes où lorsqu'un joueur pose une carte d'une valeur supérieure aux autres cartes, celui-ci obtient la carte mère qui lui donne un nombre de point compris entre -5 à +10. Chaque joueur possède 15 cartes.
+
+Admettons que : valeur a = carte du joueur 1, valeur b = carte du joueur 2 et valeur c = carte mère.
+Si valeur a > valeur b alors le joueur 1 gagne carte mère.
+Si valeur a = valeur b alors carte mère s'additionne avec la carte mère du tour suivant et si valeur a > valeur b alors joueur 1 obtient les deux cartes mères.
+
+En dehors des règles du jeu, nous devons créer une intelligence artificielle capable de réaliser des actions logiques et que l'IA ne joue pas une carte de façon aléatoire.
+Pour placer 3 modes de difficulté, nous devons créer 3 scripts dont les probabilités seront plus strictes selon le choix du joueur.
+De plus même si le projet s'arrête à cette problématique, de notre côté on s'en impose en ayant la philosophie de donner envie de jouer et même de développer un jeu :
+
+- Créer un jeu COMPLET dans un thème défini. Le jeu ne s'arrêtera pas à lancer une partie, il y aura un menu principal, bonus, musique et son, tutoriel, une customisation de partie poussée et plus encore.
+
+- Utiliser jusqu'aux limites, des fonctionnalités artistiques CSS (transition, animation, parallaxe) couplé aux connaissances des suites Adobe (Photoshop, Illustrator et LightRoom) et de la numérisation de certains dessins. Évidemment, l'usage du CSS primera.
+
+- Mode de difficulté, légende : créer une Intelligence Artificielle imbattable en utilisant du deep learning sur TensorFlow.JS . Pour ceux qui aiment l'algorithmie, et trouver la faille pour vaincre cette IA. (attention connaissances mathématiques et informatiques poussées nécessaires!)
+
+- Le jeu sera accessible, modifiable pour tout le monde et l'écriture du code se veut PÉDAGOGIQUE pour qu'une personne qui s'y connaît pas en dev, puisse comprendre et apprendre.
+C'est l'une des raisons pour laquelle, l'usage du CSS prime par rapport à l'usage des suites d'adobe.
+
+
